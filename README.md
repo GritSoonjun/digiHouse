@@ -1,5 +1,5 @@
 # digiHouse
-- Project name digiAquarium  
+- Project name digiHouse
 - Project code 3001202425672131
 ##
 - New release early access version!
