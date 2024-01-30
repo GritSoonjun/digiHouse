@@ -5,4 +5,4 @@
 - New release early access version!
 - This project leverages Dual Board Synergy Technology.
 ##
-Need help? Contact us soonjun.grit@gmail.com digiHouse
+Need help? Contact us soonjun.grit@gmail.com
